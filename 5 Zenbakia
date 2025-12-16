@@ -1,0 +1,14 @@
+<table border="1">
+<tr>
+<th>Atributo</th>
+<th>Descripcion</th>
+</tr>
+<tr>
+<td>Edad</td>
+<td>18-30 años</td>
+</tr>
+<tr>
+<td>Intereses</td>
+<td>tecnologia y moda</td>
+</tr>
+</table>

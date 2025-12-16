@@ -1,0 +1,9 @@
+<div class="caja">Contenido dentro de la
+caja</div>
+<style>
+.caja {
+background-color: #aaddff;
+border-radius: 10px;
+padding: 20px;
+}
+</style>

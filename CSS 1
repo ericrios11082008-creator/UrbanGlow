@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Color</title>
+<style>
+p {color: blue;}
+</style>
+</head>
+<body>
+<p>Este texto es azul.</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Fondo</title>
+<style>
+div {background-color: green;padding: 20px;}
+</style>
+</head>
+<body>
+<div>Este fondo es amarillo.</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Fuente</title>
+<style>
+h1 {font-family: Arial, sans-serif;}
+</style>
+</head>
+<body>
+<h1>Este título usa Arial.</h1>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Tamaño Fuente</title>
+<style>
+p {font-size: 24px;}
+</style>
+</head>
+<body>
+<p>Este texto es más grande.</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Margen</title>
+<style>
+div {margin: 50px;background-color: #eee;padding: 10px;}
+</style>
+</head>
+<body>
+<div>Este div tiene margen alrededor.</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Padding</title>
+<style>
+button {padding: 20px 30px;font-size: 32px;}
+</style>
+</head>
+<body>
+<button>Botón con padding</button>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Borde</title>
+<style>
+img {border: 3px solid black;border-radius: 10px;max-width: 200px;}
+</style>
+</head>
+<body>
+<img
+src="https://via.placeholder.com/200"
+alt="Imagen con borde" />
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Tamaño</title>
+<style>
+div {width: 300px;height: 150px;background-color: lightblue;padding: 8px;}
+</style>
+</head>
+<body>
+<div>Esta caja tiene tamaño fijo.</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Texto Centrado</title>
+<style>
+h2 {text-align: center;}
+</style>
+</head>
+<body>
+<h2>Este texto está centrado.</h2>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo Display Block</title>
+<style>
+span {display: block;background-color: #ddf;padding: 10px;}
+</style>
+</head>
+<body>
+<span>Este span se comporta como un bloque.</span>
+</body>
+</html>
+

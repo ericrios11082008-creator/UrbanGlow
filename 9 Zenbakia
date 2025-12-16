@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Ejemplo de audio</title>
+</head>
+<body>
+<h2>Reproductor de audio</h2>
+<audio src="audio/ejemplo.mp3"
+controls></audio>
+</body>
+</html>
